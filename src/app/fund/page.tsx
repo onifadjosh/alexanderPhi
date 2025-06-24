@@ -92,11 +92,11 @@ const FilmFund: NextPage = () => {
         </section>
 
         {/* Main Content */}
-        <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32 bg-[#db0211] text-white">
+        <main className="/max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32 bg-[#db0211] text-white">
           {/* Vision Statement */}
           <AnimatedSection direction="up" className="mb-32">
             <div className="max-w-3xl mx-auto text-center mb-16 text-white">
-              <h2 className="text-4xl md:text-8xl font-extrabold mb-8 text-white ">
+              <h2 className="text-4xl md:text-9xl font-extrabold mb-8 text-white ">
                 Our Vision
               </h2>
               <p className="text-2xl md:text-3xl text-white leading-relaxed mb-8 font-semibold">
